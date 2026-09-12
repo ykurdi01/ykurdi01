@@ -1,19 +1,19 @@
-### Hi, ich bin Yassin
+### Hi, I'm Yassin
 
-IT-Sicherheit Student an der Berliner Hochschule für Technik, aktuell im 5. Fachsemester. Mein Fokus liegt darauf, sichere Software entlang der ganzen DevOps-Pipeline zu bauen, von Secure Coding bis zu automatisierten Security-Checks in der CI.
+IT security student at Berliner Hochschule für Technik, currently in my 5th semester. My focus is on building secure software across the whole DevOps pipeline, from secure coding to automated security checks in CI.
 
-Die Projekte unten sind eigenständige Übungsprojekte, mit denen ich verschiedene Bereiche der IT-Sicherheit und des Cloud-Handwerks praktisch durchdringe.
+The projects below are independent projects I built to get hands on practice with different areas of IT security and cloud engineering.
 
 **[cloud-platform-lab](https://github.com/ykurdi01/cloud-platform-lab)**
-Containerisierte Flask/Redis App mit Docker, Kubernetes (Kustomize und Helm), Terraform, Prometheus Metriken und einer CI-Pipeline, die das Image automatisch an die GitHub Container Registry pusht.
+Containerized Flask/Redis app with Docker, Kubernetes (Kustomize and Helm), Terraform, Prometheus metrics, and a CI pipeline that automatically pushes the image to the GitHub Container Registry.
 
 **[devsecops-pipeline-lab](https://github.com/ykurdi01/devsecops-pipeline-lab)**
-GitHub-Actions-Pipeline, die bei jedem Push und Pull Request automatisch nach Sicherheitsproblemen sucht, SAST, Dependency-, Secret-, Container- und IaC-Scan, demonstriert an einer Beispiel-App mit absichtlichen Schwachstellen.
+GitHub Actions pipeline that automatically scans for security issues on every push and pull request, SAST, dependency, secret, container, and IaC scanning, demonstrated on a sample app with intentional vulnerabilities.
 
 **[ai-pr-review-agent](https://github.com/ykurdi01/ai-pr-review-agent)**
-Automatisierter Code-Review-Agent als GitHub Action, der bei jedem Pull Request den Diff per Sprachmodell analysiert und die Ergebnisse als Inline-Kommentare postet.
+Automated code review agent as a GitHub Action that analyzes the diff of every pull request with a language model and posts the findings as inline comments.
 
 **[portscan-detection-lab](https://github.com/ykurdi01/portscan-detection-lab)**
-Python-Tool zur Erkennung von Portscan-Mustern im Netzwerkverkehr, mit dokumentierten Wireshark-Filtern und konfigurierbaren Schwellwerten.
+Python tool for detecting port scan patterns in network traffic, with documented Wireshark filters and configurable thresholds.
 
-Kontakt über [LinkedIn](https://www.linkedin.com/in/yassin-k-6622ba179/).
+Reach out on [LinkedIn](https://www.linkedin.com/in/yassin-k-6622ba179/).
