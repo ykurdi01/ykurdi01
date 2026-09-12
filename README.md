@@ -1,6 +1,6 @@
 ### Hi, ich bin Yassin
 
-IT-Sicherheit Student an der Berliner Hochschule für Technik, aktuell im 3. Fachsemester. Mein Fokus liegt darauf, sichere Software entlang der ganzen DevOps-Pipeline zu bauen, von Secure Coding bis zu automatisierten Security-Checks in der CI.
+IT-Sicherheit Student an der Berliner Hochschule für Technik, aktuell im 5. Fachsemester. Mein Fokus liegt darauf, sichere Software entlang der ganzen DevOps-Pipeline zu bauen, von Secure Coding bis zu automatisierten Security-Checks in der CI.
 
 Die Projekte unten sind eigenständige Übungsprojekte, mit denen ich verschiedene Bereiche der IT-Sicherheit und des Cloud-Handwerks praktisch durchdringe.
 
